@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://giphy.com/gifs/theoffice-nbc-the-office-tv-mP8YqtjCNOB9HLyrn0)
+![logo](https://github.com/shivDroid/shivDroid/blob/main/giphy%20-%20Copy.webp)
 
 <h1 align="center">Yello guys 👋, I'm Shiv</h1>
 <h3 align="center">As you would have judged from my repos. Yes, I am still a noob</h3>
